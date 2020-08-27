@@ -1,0 +1,6 @@
+.icon1xsunny {
+    background-image: url('../../openweathermap_icons/1x/01d.png');
+    border: 1px solid black;
+
+    display: block;
+}
